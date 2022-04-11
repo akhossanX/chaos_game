@@ -9,8 +9,8 @@
 
 #include <mlx.h>
 
-#define WIN_WIDTH	700
-#define	WIN_HEIGTH	500
+#define WIN_WIDTH	1200
+#define	WIN_HEIGTH	700
 #define WIN_TITLE	"CHAOS EQUATION SIMULATION"
 #define NUM_POINTS	5
 
